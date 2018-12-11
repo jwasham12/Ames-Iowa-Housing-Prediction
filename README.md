@@ -1,6 +1,6 @@
 ## Problem Statement
 
-    Analyze the Ames Iowa housing data and apply machine learning concept to build a model that can predict the sale price of the houses.
+Analyze the Ames Iowa housing data and apply machine learning concept to build a model that can predict the sale price of the houses.
     
     
 ## Executive Summary
