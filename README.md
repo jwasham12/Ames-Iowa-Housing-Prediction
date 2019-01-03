@@ -5,7 +5,7 @@ Analyze the Ames Iowa housing data and apply machine learning concept to build a
     
 ## Executive Summary
 
-Buying a home can be tricky since you cannot measure every aspect of the house and predict the right sale price of the house. So, a model that takes in the measures in order to predict the house price can be useful to the people when buying a house. Therefore, we obtain the housing dataset which include 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. We will use this dataset to see which house features have negative or positive effect of the house price and build a accurate model that can predict the sale price.  
+Buying a house can be very stressful especially when it comes down to the price of the house. Everyone expects a house for the right price, but how can you measure the value of the price without measuring every aspect of the house? This sounds like a job for data science. I obtained the housing dataset from Kaggle which include 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. With data analytics and machine learning concept, this dataset can help us to see which house features have the negative or positive effect of the house price and build an accurate model that can predict the sale price. 
 
 
 ## Data Dictionary
