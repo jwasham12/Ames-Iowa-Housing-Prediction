@@ -1,6 +1,6 @@
 ## Problem Statement
 
-Analyze the Ames Iowa housing data and apply machine learning concept to build a model that can predict the sale price of the houses.
+    Analyze the Ames Iowa housing data and apply machine learning concept to build a model that can predict the sale price of the houses.
     
     
 ## Executive Summary
@@ -32,7 +32,9 @@ The data are given:
 
 **Model**
 - Elastic Net method
-- Error(RMSE) = 0.134
+- Train Score = 0.909
+- Test Score = 0.902
+- Error(RMSE) = $35467.47
 
 **Features that help the sale price to increase**
 - High positive coefficient:
